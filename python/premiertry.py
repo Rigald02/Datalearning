@@ -10,6 +10,7 @@ class my_class(object):
     elif mood := "ca peut aller": print ("prend un coup de coca ca reboost")
     elif mood := "la cata": print("va dormir ca ira mieux demain")
     else: print("je ne comprends pas tout malheureusement")
+    print("que puis-je faire pour vous ce soir?")
     pass
 #else if n'existe pas:
 #if est une option, elif les autres option, else est toute les autres option.
